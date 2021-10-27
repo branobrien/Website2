@@ -1,0 +1,11 @@
+name: "Website 2.0"
+
+navbar:
+  - left:
+      text: "1"
+      href: page1.html
+    
+
+output: 
+  html_document:
+    theme: darkly
