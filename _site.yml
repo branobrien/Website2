@@ -1,0 +1,19 @@
+name: "Website 2.0"
+
+navbar:
+  title: Home
+  left:
+  - text: Pets
+    menu:
+    - text: Gilligan
+      href: gill.html
+    - text: Takua
+      href: takua.html
+  right:
+    - About Me
+      href: about.html
+      
+  
+output: 
+  html_document:
+    theme: cerulean

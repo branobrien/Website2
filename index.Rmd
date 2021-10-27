@@ -1,5 +1,5 @@
 ---
-title: "Home Page"
+title: "Brandon O'Brien"
 ---
 
-this is the homepage.
+Hello, this is my website. It's going to be very professional. I will definitely not do silly things like talk about my pets.
