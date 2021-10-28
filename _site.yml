@@ -3,17 +3,25 @@ name: "Website 2.0"
 navbar:
   title: Home
   left:
-  - text: Pets
+  - text: About Me
+    href: about.html
+  - text: Allies
     menu:
     - text: Gilligan
       href: gill.html
     - text: Takua
       href: takua.html
+    - text: Nelson
+      href: nelson.html
+  - text: Dasysiphonia
+    href: dasy.html
+    
+    
   right:
-    - About Me
-      href: about.html
+    - text: Contact
+      href: contact.html
       
   
 output: 
   html_document:
-    theme: cerulean
+    theme: darkly

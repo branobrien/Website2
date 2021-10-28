@@ -1,5 +1,16 @@
 ---
 title: "Takua"
 ---
-This one is for my axolotl, Takua.
+
+Takua, the guiding light.
+
+
+__Stats__
+Species: _Ambystoma mexicanum_ 
+Type: Water
+
+Attack:
+Defense:
+Speed:
+HP: 
 
